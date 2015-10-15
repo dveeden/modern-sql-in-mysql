@@ -1,0 +1,25 @@
+table tr td {
+  border: 1px solid #ccff66;
+  background-color: #F5FFE0;
+  font-family: 'Roboto', sans-serif;
+}
+table {
+  width: 100%;
+}
+td {
+  width: 20%;
+}
+h2 {
+  color: #3D4C1F;
+  font-family: 'Roboto', sans-serif;
+}
+h3 {
+  color: #526629;
+  font-family: 'Roboto', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  background-color: #FAFFF0;
+}
