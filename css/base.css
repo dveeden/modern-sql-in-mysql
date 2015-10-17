@@ -3,6 +3,11 @@ table tr td {
   background-color: #F5FFE0;
   font-family: 'Roboto', sans-serif;
 }
+thead {
+  border: 1px solid #ccff66;
+  background-color: #EBFFC2;
+  font-family: 'Roboto', sans-serif;
+}
 table {
   width: 100%;
 }
