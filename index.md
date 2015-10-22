@@ -37,7 +37,7 @@ ARRAY            | | [MDEV-6121](https://mariadb.atlassian.net/browse/MDEV-6121)
 Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 -----------------|----------------|----------------|----------------|------------
 [FILTER](http://www.slideshare.net/MarkusWinand/modern-sql/61)           |
-[OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61)             | [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115)
+[OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61)             | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115)
 [WITHIN GROUP](http://www.slideshare.net/MarkusWinand/modern-sql/95)     |
 
 ### SQL:1999
