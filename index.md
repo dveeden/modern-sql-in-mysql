@@ -91,6 +91,8 @@ GIS features.
 
 MySQL has good support for [X/Open X/A](http://pubs.opengroup.org/onlinepubs/009680699/toc.pdf) distributed transactions (as Resource Manager).
 
+MySQL 5.7+ support [GeoJSON](http://geojson.org/geojson-spec.html).
+
 ## What can I do?
 
 Click 'Affects me' on [bugs.mysql.com](https://bugs.mysql.com) or Vote on the [MariaDB JIRA](https://mariadb.atlassian.net).
