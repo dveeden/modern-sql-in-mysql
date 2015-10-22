@@ -70,6 +70,10 @@ another MySQL server and combine data from multiple servers.
 This is all very useful, but none of these follow the
 SQL/MED (Management of External Data) standard syntax.
 
+## Documentation about standards
+
+To update the documentation about standards support: [Bug #75954](https://bugs.mysql.com/bug.php?id=75954)
+
 ## Other standards
 
 The *SQL/JSON* standard is being created. Some info is available here:
