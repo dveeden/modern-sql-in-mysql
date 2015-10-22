@@ -44,7 +44,7 @@ Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQ
 
 Feature        | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 ---------------|----------------|----------------|----------------|------------
-[LATERAL](http://www.slideshare.net/MarkusWinand/modern-sql/3)        | 
+[LATERAL](http://www.slideshare.net/MarkusWinand/modern-sql/3)        | [Bug #78930](https://bugs.mysql.com/bug.php?id=78930)
 [WITH](http://www.slideshare.net/MarkusWinand/modern-sql/18)           | [Bug #16244](https://bugs.mysql.com/bug.php?id=16244) | [MDEV-8308](https://mariadb.atlassian.net/browse/MDEV-8308)
 [WITH RECURSIVE](http://www.slideshare.net/MarkusWinand/modern-sql/40)[^with_recursive] |
 
