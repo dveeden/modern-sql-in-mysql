@@ -81,6 +81,8 @@ The *SQL/PSM* standard (Part of SQL:1999) is amazingly well supported in MySQL.
 The level of implementation of the *OpenGIS* standard is rapidly improving. Both MySQL 5.7 and MariaDB 10.1 have enhanced
 GIS features.
 
+MySQL has good support for [X/Open X/A](http://pubs.opengroup.org/onlinepubs/009680699/toc.pdf) distributed transactions (as Resource Manager).
+
 ## What can I do?
 
 Click 'Affects me' on [bugs.mysql.com](https://bugs.mysql.com) or Vote on the [MariaDB JIRA](https://mariadb.atlassian.net).
