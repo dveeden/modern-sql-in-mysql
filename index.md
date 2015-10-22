@@ -30,7 +30,7 @@ Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQ
 -----------------|----------------|----------------|----------------|------------
 [FETCH FIRST](http://www.slideshare.net/MarkusWinand/modern-sql/107)      | Non-standard LIMIT Only, [Bug #78929](https://bugs.mysql.com/bug.php?id=78929) | Non-standard LIMIT Only |
 [OVER](http://www.slideshare.net/MarkusWinand/modern-sql/101)             |
-ARRAY            | | [MDEV-6121](https://mariadb.atlassian.net/browse/MDEV-6121)
+ARRAY            | [Bug #13830](https://bugs.mysql.com/bug.php?id=13830) | [MDEV-6121](https://mariadb.atlassian.net/browse/MDEV-6121)
 
 ### SQL:2003
 
