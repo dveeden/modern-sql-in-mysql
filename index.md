@@ -39,7 +39,8 @@ Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQ
 [FILTER](http://www.slideshare.net/MarkusWinand/modern-sql/61)           |
 [OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61)             | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115)
 [WITHIN GROUP](http://www.slideshare.net/MarkusWinand/modern-sql/95)     |
-[MERGE] | [Bug #9018](https://bugs.mysql.com/bug.php?id=9018) |
+MERGE | [Bug #9018](https://bugs.mysql.com/bug.php?id=9018) |
+BETWEEN | [Bug #46867](https://bugs.mysql.com/bug.php?id=46867) |
 
 ### SQL:1999
 
