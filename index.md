@@ -49,6 +49,7 @@ Feature        | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 [LATERAL](http://www.slideshare.net/MarkusWinand/modern-sql/3)        | [Bug #78930](https://bugs.mysql.com/bug.php?id=78930)
 [WITH](http://www.slideshare.net/MarkusWinand/modern-sql/18)           | [Bug #16244](https://bugs.mysql.com/bug.php?id=16244) | [MDEV-8308](https://mariadb.atlassian.net/browse/MDEV-8308)
 [WITH RECURSIVE](http://www.slideshare.net/MarkusWinand/modern-sql/40)[^with_recursive] |
+GROUPING | [Bug #46053](https://bugs.mysql.com/bug.php?id=46053) |
 
 [^with_recursive]: See also: [WITH RECURSIVE and MySQL](http://guilhembichot.blogspot.nl/2013/11/with-recursive-and-mysql.html) by Guilhem Bichot.
 
