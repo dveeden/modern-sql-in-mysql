@@ -94,6 +94,8 @@ MySQL has good support for [X/Open X/A](http://pubs.opengroup.org/onlinepubs/009
 
 MySQL 5.7+ support [GeoJSON](http://geojson.org/geojson-spec.html).
 
+MySQL has support for *IEEE 754*. The documentation on the level of compliance is not complete: [Bug #57519](https://bugs.mysql.com/bug.php?id=57519). See also [0.30000000000000004.com](http://0.30000000000000004.com/)
+
 ## What can I do?
 
 Click 'Affects me' on [bugs.mysql.com](https://bugs.mysql.com) or Vote on the [MariaDB JIRA](https://mariadb.atlassian.net).
