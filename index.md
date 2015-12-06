@@ -31,6 +31,9 @@ Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQ
 [FETCH FIRST](http://www.slideshare.net/MarkusWinand/modern-sql/107)      | Non-standard LIMIT Only, [Bug #78929](https://bugs.mysql.com/bug.php?id=78929) | Non-standard LIMIT Only |
 [OVER](http://www.slideshare.net/MarkusWinand/modern-sql/101)             |
 ARRAY            | [Bug #13830](https://bugs.mysql.com/bug.php?id=13830) | [MDEV-6121](https://mariadb.atlassian.net/browse/MDEV-6121)
+NORMALIZE[^nfc_in_postgresql] | [Bug #71563](https://bugs.mysql.com/bug.php?id=71563) |
+
+[^nfc_in_postgresql]: See also: [Unicode Normalization in SQL](http://justatheory.com/computers/databases/postgresql/unicode-normalization.html) by David E. Wheeler
 
 ### SQL:2003
 
