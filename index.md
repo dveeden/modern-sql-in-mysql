@@ -39,7 +39,7 @@ NORMALIZE[^nfc_in_postgresql] | [WL#2048](https://dev.mysql.com/worklog/task/?id
 
 Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 -----------------|----------------|----------------|----------------|------------
-[FILTER](http://www.slideshare.net/MarkusWinand/modern-sql/61)           |
+[FILTER](http://www.slideshare.net/MarkusWinand/modern-sql/61)           | Thirdparty, [filter_plugin](https://github.com/svetasmirnova/filter_plugin) for 5.7
 [OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61)             | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115)
 [WITHIN GROUP](http://www.slideshare.net/MarkusWinand/modern-sql/95)     |
 MERGE | [Bug #9018](https://bugs.mysql.com/bug.php?id=9018) |
