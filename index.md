@@ -40,7 +40,7 @@ NORMALIZE[^nfc_in_postgresql] | [WL#2048](https://dev.mysql.com/worklog/task/?id
 Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 -----------------|----------------|----------------|----------------|------------
 [FILTER](http://www.slideshare.net/MarkusWinand/modern-sql/61)           | Thirdparty, [filter_plugin](https://github.com/svetasmirnova/filter_plugin) for 5.7
-[OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61)             | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115)
+[OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61) a.k.a. window functions | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115) [MariaDB 10.2.0 work-in-progress](https://drive.google.com/file/d/0B7HE7L1OgKJFRnpnLThfS2d5dWc/view)
 [WITHIN GROUP](http://www.slideshare.net/MarkusWinand/modern-sql/95)     |
 MERGE | [Bug #9018](https://bugs.mysql.com/bug.php?id=9018) |
 BETWEEN | [Bug #46867](https://bugs.mysql.com/bug.php?id=46867) |
