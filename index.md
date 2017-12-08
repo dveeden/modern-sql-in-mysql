@@ -21,7 +21,7 @@ with other databases like SQLite and PostgreSQL.
 Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 -----------------|----------------|----------------|----------------|------------
 [OFFSET](http://www.slideshare.net/MarkusWinand/modern-sql/113)           |
-[AS OF](http://www.slideshare.net/MarkusWinand/modern-sql/118)            |
+[AS OF](http://www.slideshare.net/MarkusWinand/modern-sql/118)            | | [MDEV-12894](https://jira.mariadb.org/browse/MDEV-12894) Will be in 10.3 |
 [WITHOUT OVERLAPS](http://www.slideshare.net/MarkusWinand/modern-sql/129) |
 
 ### SQL:2008
