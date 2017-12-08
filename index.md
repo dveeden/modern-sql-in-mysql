@@ -25,7 +25,7 @@ Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQ
 MATCH\_RECOGNIZER |
 IS JSON |
 ON ERROR |
-JSON\_OBJECT
+JSON\_OBJECT |
 JSON\_ARRAY | Yes |
 JSON\_OBJECTAGG |
 JSON\_EXISTS |
