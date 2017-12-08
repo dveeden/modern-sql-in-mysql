@@ -71,7 +71,7 @@ Feature        | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 [LATERAL](http://www.slideshare.net/MarkusWinand/modern-sql/3)        | [Bug #78930](https://bugs.mysql.com/bug.php?id=78930)
 [WITH](http://www.slideshare.net/MarkusWinand/modern-sql/18)           | [Bug #16244](https://bugs.mysql.com/bug.php?id=16244) Will be in 8.0[^with_eight_zero] | [MDEV-8308](https://jira.mariadb.org/browse/MDEV-8308)
 [WITH RECURSIVE](http://www.slideshare.net/MarkusWinand/modern-sql/40)[^with_recursive] | Will be in 8.0[^with_eight_zero] |
-GROUPING | [Bug #46053](https://bugs.mysql.com/bug.php?id=46053) |
+GROUPING | Yes, since 8.0.1 [details](https://dev.mysql.com/doc/refman/8.0/en/group-by-modifiers.html) |
 
 [^with_recursive]: See also: [WITH RECURSIVE and MySQL](http://guilhembichot.blogspot.nl/2013/11/with-recursive-and-mysql.html) by Guilhem Bichot.
 
