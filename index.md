@@ -16,6 +16,25 @@ with other databases like SQLite and PostgreSQL.
 
 ## What is the current state of Modern SQL in MySQL?
 
+### SQL:2016
+
+See also: [What's New in SQL:2016](http://modern-sql.com/blog/2017-06/whats-new-in-sql-2016) on modernsql.com
+
+Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
+-----------------|----------------|----------------|----------------|------------
+MATCH\_RECOGNIZER |
+IS JSON |
+ON ERROR |
+JSON\_OBJECT
+JSON\_ARRAY | Yes |
+JSON\_OBJECTAGG |
+JSON\_EXISTS |
+JSON\_VALUE |
+JSON\_QUERY |
+JSON\_TABLE |
+JSON Path | Partly |
+LISTAGG |
+
 ### SQL:2011
 
 Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
