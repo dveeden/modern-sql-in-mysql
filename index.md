@@ -30,7 +30,7 @@ Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQ
 -----------------|----------------|----------------|----------------|------------
 [FETCH FIRST](http://www.slideshare.net/MarkusWinand/modern-sql/107)      | Non-standard LIMIT Only, [Bug #78929](https://bugs.mysql.com/bug.php?id=78929) | Non-standard LIMIT Only |
 [OVER](http://www.slideshare.net/MarkusWinand/modern-sql/101)             |
-ARRAY            | [Bug #13830](https://bugs.mysql.com/bug.php?id=13830) | [MDEV-6121](https://mariadb.atlassian.net/browse/MDEV-6121)
+ARRAY            | [Bug #13830](https://bugs.mysql.com/bug.php?id=13830) | [MDEV-6121](https://jira.mariadb.org/browse/MDEV-6121)
 NORMALIZE[^nfc_in_postgresql] | [WL#2048](https://dev.mysql.com/worklog/task/?id=2048) [Bug #71563](https://bugs.mysql.com/bug.php?id=71563) |
 
 [^nfc_in_postgresql]: See also: [Unicode Normalization in SQL](http://justatheory.com/computers/databases/postgresql/unicode-normalization.html) by David E. Wheeler
@@ -40,7 +40,7 @@ NORMALIZE[^nfc_in_postgresql] | [WL#2048](https://dev.mysql.com/worklog/task/?id
 Feature          | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 -----------------|----------------|----------------|----------------|------------
 [FILTER](http://www.slideshare.net/MarkusWinand/modern-sql/61)           | Thirdparty, [filter_plugin](https://github.com/svetasmirnova/filter_plugin) for 5.7
-[OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61) a.k.a. window functions | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://mariadb.atlassian.net/browse/MDEV-6115) [MariaDB 10.2.0 work-in-progress](https://drive.google.com/file/d/0B7HE7L1OgKJFRnpnLThfS2d5dWc/view)
+[OVER](http://www.slideshare.net/MarkusWinand/modern-sql/61) a.k.a. window functions | [Bug #28957](https://bugs.mysql.com/bug.php?id=28957) [Bug #35893](https://bugs.mysql.com/bug.php?id=35893) | [MDEV-6115](https://jira.mariadb.org/browse/MDEV-6115) [MariaDB 10.2.0 work-in-progress](https://drive.google.com/file/d/0B7HE7L1OgKJFRnpnLThfS2d5dWc/view)
 [WITHIN GROUP](http://www.slideshare.net/MarkusWinand/modern-sql/95)     |
 MERGE | [Bug #9018](https://bugs.mysql.com/bug.php?id=9018) |
 BETWEEN | [Bug #46867](https://bugs.mysql.com/bug.php?id=46867) |
@@ -50,7 +50,7 @@ BETWEEN | [Bug #46867](https://bugs.mysql.com/bug.php?id=46867) |
 Feature        | Oracle MySQL   | MariaDB        | Percona Server | WebscaleSQL
 ---------------|----------------|----------------|----------------|------------
 [LATERAL](http://www.slideshare.net/MarkusWinand/modern-sql/3)        | [Bug #78930](https://bugs.mysql.com/bug.php?id=78930)
-[WITH](http://www.slideshare.net/MarkusWinand/modern-sql/18)           | [Bug #16244](https://bugs.mysql.com/bug.php?id=16244) Will be in 8.0[^with_eight_zero] | [MDEV-8308](https://mariadb.atlassian.net/browse/MDEV-8308)
+[WITH](http://www.slideshare.net/MarkusWinand/modern-sql/18)           | [Bug #16244](https://bugs.mysql.com/bug.php?id=16244) Will be in 8.0[^with_eight_zero] | [MDEV-8308](https://jira.mariadb.org/browse/MDEV-8308)
 [WITH RECURSIVE](http://www.slideshare.net/MarkusWinand/modern-sql/40)[^with_recursive] | Will be in 8.0[^with_eight_zero] |
 GROUPING | [Bug #46053](https://bugs.mysql.com/bug.php?id=46053) |
 
@@ -103,7 +103,7 @@ MySQL has support for *IEEE 754*. The documentation on the level of compliance i
 
 ## What can I do?
 
-Click 'Affects me' on [bugs.mysql.com](https://bugs.mysql.com) or Vote on the [MariaDB JIRA](https://mariadb.atlassian.net).
+Click 'Affects me' on [bugs.mysql.com](https://bugs.mysql.com) or Vote on the [MariaDB JIRA](https://jira.mariadb.org).
 You could also help to implement the features or pay someone else to do that.
 
 Or let others know about this:
